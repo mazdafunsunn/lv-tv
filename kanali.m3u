@@ -1,0 +1,30 @@
+Viasat
+#EXTM3U
+#EXTINF:-1,TV3
+http://83.166.48.35:8888/udp/235.35.1.22:1234 
+#EXTINF:-1,TV6
+http://83.166.48.35:8888/udp/235.35.1.25:1234 
+#EXTINF:-1,LTV1
+http://83.166.48.35:8888/udp/235.35.1.20:1234  
+#EXTINF:-1,LNT
+http://83.166.48.35:8888/udp/235.35.1.19:1234  
+#EXTINF:-1,TV2
+http://83.166.48.35:8888/udp/235.35.1.18:1234       
+#EXTINF:-1,LTV7                    
+http://193.8.246.110:8880/play/10130    
+#EXTINF:-1,Viasat Sport Baltic
+http://83.166.48.35:8888/udp/235.35.1.6:1234
+#EXTINF:-1,Viasat Nature
+http://83.166.48.35:8888/udp/235.35.1.7:1234
+#EXTINF:-1,Viasat History
+http://83.166.48.35:8888/udp/235.35.1.8:1234
+#EXTINF:-1,Kanals 2
+http://83.166.48.35:8888/udp/235.35.1.18:1234
+#EXTINF:-1,LNT Latvia
+http://83.166.48.35:8888/udp/235.35.1.19:1234
+#EXTINF:-1,LTV1
+http://83.166.48.35:8888/udp/235.35.1.20:1234
+#EXTINF:-1,TV3 Latvia
+http://83.166.48.35:8888/udp/235.35.1.22:1234
+#EXTINF:-1,TV6 Latvia
+http://83.166.48.35:8888/udp/235.35.1.25:1234
